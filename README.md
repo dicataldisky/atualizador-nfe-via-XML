@@ -38,7 +38,7 @@ Durante o processo de preparação será necessário informar alguns campos de c
 | `Tabela NFe`            | :white_check_mark: | Tabela da base de dados. (Aonde as notas se encontram salvas) |
 | `Coluna Data e Hora`    | :white_check_mark: | Coluna datetime aonde é salvo a data e hora das notas         |
 | `Coluna Chave de Acesso`| :white_check_mark: | Coluna aonde contenha a chave de acesso das notas             |
-| `Tempo de cada Query`   | :ballot_box_with_check: | Informar tempo de execução em MILISSEGUNDOS Padrão: 350  |
+| `Tempo de cada Query`   | :ballot_box_with_check: | Informar tempo de execução em MILISSEGUNDOS Padrão: 450  |
 
 # Observações:
 
